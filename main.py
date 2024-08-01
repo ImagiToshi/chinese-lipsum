@@ -42,5 +42,5 @@ else:
 
 
 result = g.Lipsum(length, gen_punc, punc_min_gap, punc_max_gap)
-print("生成完毕"\n)
+print("生成完毕\n")
 print(result)
